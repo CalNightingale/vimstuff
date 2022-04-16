@@ -138,5 +138,6 @@ let g:ftplugin_sql_omni_key = '<leader>sql'
 let g:ftplugin_sql_omni_key = '<leader><leader>bob'   
 let g:go_fmt_command = "goimports"
 
+" set colorscheme here!!!!
 autocmd VimEnter * colorscheme dracula
 
